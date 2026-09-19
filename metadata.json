@@ -1,0 +1,6 @@
+{
+  "name": "TEKNIC EUCHNER",
+  "description": "Engineered sensing, switching and control solutions for machines that demand reliability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,271 @@
+{
+  "Inductive Proximity Switches": {
+    "badge": "Sensing",
+    "tagline": "Built for extreme conditions",
+    "lead": "Solid-state switching devices that need no physical contact to be actuated.",
+    "paras": [
+      "Used for control and positioning signals, they connect directly into conventional or electronic control systems. As plants and machines have become more automated, the need for switches like these has grown.",
+      "High-quality materials and advanced construction give a very high degree of precision and reliability, even under the most arduous conditions."
+    ],
+    "features": [
+      "Non-contact, solid-state operation",
+      "Connects directly to conventional or electronic control systems",
+      "Provides control and positioning signals on automated machines",
+      "Precision and reliability in demanding industrial conditions"
+    ],
+    "specs": [
+      [
+        "Actuation",
+        "No physical contact"
+      ],
+      [
+        "Technology",
+        "Solid-state switching"
+      ],
+      [
+        "Detects",
+        "Metal targets (inductive principle)"
+      ],
+      [
+        "Connection",
+        "Conventional or electronic controls"
+      ]
+    ],
+    "uses": "Control and positioning signals on automated machines and manufacturing plants.",
+    "catalog": [
+      "https://www.teknic-euchner.co.in/wp-content/uploads/2025/01/Teknic-Euchner-Proximity-Switches-.pdf",
+      "View official catalogue (PDF)"
+    ]
+  },
+  "Single Limit Switches": {
+    "badge": "Position switching",
+    "tagline": "Precision, reliability and versatility",
+    "lead": "A versatile limit switch built to European Standard EN 50041 with Euchner know-how, developed into a universal construction.",
+    "paras": [
+      "Robust construction, corrosion-resistant materials, precision finishing and a high IP67 protection class are the basis for trouble-free, reliable operation under the most arduous conditions."
+    ],
+    "features": [
+      "Built to European Standard EN 50041",
+      "Universal construction based on Euchner know-how",
+      "Exclusive use of high-quality, corrosion-resistant materials",
+      "Precision finishing for dependable operation"
+    ],
+    "specs": [
+      [
+        "Standard",
+        "EN 50041"
+      ],
+      [
+        "Protection class",
+        "IP67 (IEC 60529, DIN 40050)"
+      ],
+      [
+        "Materials",
+        "Corrosion-resistant"
+      ],
+      [
+        "Origin of design",
+        "Euchner Germany know-how"
+      ]
+    ],
+    "uses": "Machine and equipment position sensing where a rugged, IP67-rated limit switch is required.",
+    "catalog": [
+      "https://www.teknic-euchner.co.in/wp-content/uploads/2025/01/Catalogue-NG-Switches.pdf",
+      "View official catalogue (PDF)"
+    ]
+  },
+  "Precision Single and Multiple Limit Switches": {
+    "badge": "Precision switching",
+    "tagline": "Precision and know-how: the basis for your confidence",
+    "lead": "Outstanding controls developed and perfected with the machine tool industry over the last 40 years by Euchner Germany.",
+    "paras": [
+      "High-grade materials and excellent technology give a reliable coordination of all necessary functions, which guarantees trouble-free operation under the most arduous conditions.",
+      "They are used for the controlling and positioning of machines and industrial equipment."
+    ],
+    "features": [
+      "Single and multiple limit switch versions",
+      "Developed with the machine tool industry",
+      "High-grade materials and reliable coordination of all functions",
+      "Trouble-free operation under arduous conditions"
+    ],
+    "specs": [
+      [
+        "Heritage",
+        "40+ years, Euchner Germany"
+      ],
+      [
+        "Versions",
+        "Single and multiple"
+      ],
+      [
+        "Application",
+        "Control & positioning of machines"
+      ],
+      [
+        "Industry",
+        "Machine tools & industrial equipment"
+      ]
+    ],
+    "uses": "Controlling and positioning machine tools and other industrial equipment.",
+    "catalog": [
+      "https://www.teknic-euchner.co.in/wp-content/uploads/2025/01/Catalogue-Multiple-Limit-Switch.pdf",
+      "View official catalogue (PDF)"
+    ]
+  },
+  "Photoelectric Sensors": {
+    "badge": "Optical sensing",
+    "tagline": "How they work",
+    "lead": "An emitter sends out a light beam and a receiver detects it. When the beam is interrupted, the change is converted into an electrical signal.",
+    "paras": [
+      "The light used is either infrared or red. Teknic Euchner photoelectric sensors are available in direct-reflection, reflector (polarised light) and emitter-receiver versions.",
+      "Because of the flexible standard programmable versions, they allow stock reduction and are easily interchangeable with most units available in the market."
+    ],
+    "features": [
+      "Fast, non-contact detection of objects",
+      "Direct reflection, reflector and emitter-receiver versions",
+      "Infrared or visible red light",
+      "Programmable versions that help reduce stock"
+    ],
+    "specs": [
+      [
+        "Light source",
+        "Infrared or red"
+      ],
+      [
+        "Versions",
+        "Direct reflection / reflector / emitter-receiver"
+      ],
+      [
+        "Reflector type",
+        "Polarised light"
+      ],
+      [
+        "Interchangeability",
+        "With most units on the market"
+      ]
+    ],
+    "uses": "Automation: fast, non-contact detection of objects.",
+    "catalog": [
+      "https://www.teknic-euchner.co.in/wp-content/uploads/2025/01/Teknic-Euchner-Photosensors-.pdf",
+      "View official catalogue (PDF)"
+    ]
+  },
+  "NK Limit Switches": {
+    "badge": "Position switching · EN 50047",
+    "tagline": "A configurable limit switch range",
+    "lead": "Compact limit switches with dimensions to EN 50047 and electrical specifications to IEC 60947-5-1.",
+    "paras": [
+      "Different actuators can be mounted on the same basic housing, and the approach direction can be changed quickly and easily between four positions. The robust construction gives a long service life."
+    ],
+    "features": [
+      "Choice of actuators on the same basic housing",
+      "Easy, quick change of 4 approach directions",
+      "Positive-opening NC contacts suitable for safety-related applications",
+      "Robust construction for long service life"
+    ],
+    "specs": [
+      [
+        "Dimensions",
+        "EN 50047"
+      ],
+      [
+        "Electrical",
+        "IEC 60947-5-1"
+      ],
+      [
+        "TS 910",
+        "Snap action, 1NO + 1NC"
+      ],
+      [
+        "TS 920",
+        "Slow action, 1NO + 1NC"
+      ],
+      [
+        "TS 930",
+        "Slow action, 2NC"
+      ]
+    ],
+    "uses": "Position detection, including safety-related applications thanks to positive-opening NC contacts.",
+    "note": "All three contact elements (TS 910, TS 920, TS 930) have positive-opening NC contacts.",
+    "catalog": [
+      "https://www.teknic-euchner.co.in/wp-content/uploads/2025/01/NK_Limit-Switch-Catalogue_2025.pdf",
+      "View official catalogue (PDF)"
+    ]
+  },
+  "Cable Connectors": {
+    "badge": "Connectivity",
+    "tagline": "Sensor & actuator cables",
+    "lead": "High-quality initiator (sensor / actuator) cables that connect control units to sensors or actuators.",
+    "paras": [
+      "The cables have small cross-sections and come with TPU or PVC jackets. They are designed for use in energy chains, support tight bend radii and are tested for millions of cycles.",
+      "They meet various industry standards, are oil-resistant, and are available with different cable-end options for different applications."
+    ],
+    "features": [
+      "Connects control units to sensors or actuators",
+      "TPU or PVC jacket options",
+      "Designed for energy-chain use and tested for millions of cycles",
+      "Oil-resistant, with diverse cable-end options"
+    ],
+    "specs": [
+      [
+        "Cross-section",
+        "0.25 mm² to 0.34 mm²"
+      ],
+      [
+        "Jacket",
+        "TPU or PVC"
+      ],
+      [
+        "Bend radius",
+        "From 5 × d"
+      ],
+      [
+        "Resistance",
+        "Oil-resistant"
+      ]
+    ],
+    "uses": "Wiring sensors and actuators to control units, including cable-chain installations.",
+    "catalog": [
+      "https://www.teknic-euchner.co.in/products/",
+      "See it on the official site"
+    ]
+  },
+  "STM Pro Safety Switch": {
+    "badge": "Safety",
+    "tagline": "Compact guard-locking safety",
+    "lead": "The STM Pro is an electromechanical safety switch with guard locking, designed for applications with very little installation space.",
+    "paras": [
+      "The actuating head is adjustable and offers both vertical and horizontal actuation openings for flexible mounting. An integrated LED in the housing shows whether the guard-locking solenoid is energised.",
+      "Four contacts deliver all necessary information to the control unit, and an enlarged connection space with an included cable gland simplifies wiring."
+    ],
+    "features": [
+      "Compact guard-locking design",
+      "Adjustable head: vertical and horizontal actuation openings",
+      "Integrated LED shows solenoid status",
+      "Enlarged connection space, cable gland included"
+    ],
+    "specs": [
+      [
+        "Function",
+        "Guard locking"
+      ],
+      [
+        "Contacts",
+        "4"
+      ],
+      [
+        "Indication",
+        "Integrated LED"
+      ],
+      [
+        "Actuation",
+        "Vertical / horizontal openings"
+      ]
+    ],
+    "uses": "Guarding applications that need guard locking in minimal installation space.",
+    "catalog": [
+      "https://www.teknic-euchner.co.in/wp-content/uploads/2025/01/STM-Pro-Teknic-Euchner-1.pdf",
+      "View official catalogue (PDF)"
+    ]
+  }
+}

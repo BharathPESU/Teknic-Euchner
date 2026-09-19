@@ -1,0 +1,642 @@
+[
+  {
+    "className": "dealer-item dealer-item--hq",
+    "region": "Head Office \u2022 Bengaluru, Karnataka",
+    "name": "Teknic Euchner Electronics Pvt Ltd",
+    "address": "No. 64, 5th Cross, Electronics City, Bengaluru 560 100",
+    "phones": [
+      "Tel: <a href=\"tel:+918028522717\">+91 80 28522717</a>",
+      "<a href=\"mailto:marketing@teknic-euchner.co.in\">marketing@teknic-euchner.co.in</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Ahmedabad",
+    "name": "Mr. Prajesh Valekar",
+    "address": "31, Shyam Sarthi Bungalow, B/h. Sarathi Bunglow, Nr. Satyamev Hospital, Chandkheda, Ahmedabad 382424",
+    "phones": [
+      "Tel: 08905523 555"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Ahmedabad",
+    "name": "J.D. Corporation",
+    "address": "1402, Patel Vas, Mithakhali Gam, Ellisbridge, Ahmedabad 380006",
+    "phones": [
+      "Tel: 079 26577707 / 26576959 / 65126512",
+      "Mob: <a href=\"tel:+919825346766\">9825346766</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Ahmedabad",
+    "name": "D.J. Associates",
+    "address": "GF 7 &amp; 8, Wall Street \u2013 2, Opp Orient Club, Near Gujarat College, Ahmedabad 380006",
+    "phones": [
+      "Tel: 079-26562301 / 40069856",
+      "Mob: <a href=\"tel:+919712946766\">9712946766</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Ahmedabad",
+    "name": "August Technocrat",
+    "address": "Contact: Mr. Ashwin Hariramani",
+    "phones": [
+      "Tel: 08905523 555",
+      "Mob: <a href=\"tel:+917878212558\">7878212558</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Ahmedabad",
+    "name": "Shree Electrolink",
+    "address": "3/4, Muktjivan Chamber, Inside Padapole, Gandhi Road, Ahmedabad 380001",
+    "phones": [
+      "Mob: <a href=\"tel:+919825364896\">9825364896</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Bengaluru",
+    "name": "Impex Electricals",
+    "address": "Shop No.112, 1st Floor, Sajjansah Market, No.273-278, Chickpet Main Road, Bengaluru 560053",
+    "phones": [
+      "Tel: 080-41124771",
+      "Mob: <a href=\"tel:+919844077771\">9844077771</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Bengaluru",
+    "name": "Model Electricals",
+    "address": "No.60/1, GF-01 &amp; GF-02, Albert Victor Rd, 1st Main Rd, Chamarajpet, Bengaluru 560018",
+    "phones": [
+      "Tel: 080-41537627",
+      "Mob: <a href=\"tel:+919845351692\">9845351692</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Bengaluru",
+    "name": "Manik Enterprises",
+    "address": "#4, 41/43, SDV Khoday Complex, A.M. Lane, BVK Iyengar Rd Cross, Bengaluru 560053",
+    "phones": [
+      "Mob: <a href=\"tel:+919844390560\">9844390560</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Bengaluru",
+    "name": "Krushi Solutions",
+    "address": "#253, Sannidhi, 1st Floor, 1st Main, 2nd Cross, Hegganahalli, Bengaluru 560091",
+    "phones": [
+      "Mob: <a href=\"tel:+919535062171\">9535062171</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Chandigarh",
+    "name": "Namrata Trade Links",
+    "address": "SCO 40, Sector 7C, Madhya Marg, Chandigarh 160019",
+    "phones": [
+      "Tel: 0172-2793887",
+      "Mob: <a href=\"tel:+919876544405\">9876544405</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Chennai",
+    "name": "Teknic Controlgear Pvt. Ltd.",
+    "address": "Matajee Complex, Room No. 4, 6 &amp; 12, 1st Floor, No.1, Wallers Lane, Mount Road, Chennai 600002",
+    "phones": [
+      "Tel: 044-28411611 / 28592131",
+      "Mob: <a href=\"tel:+918144404876\">8144404876</a> / <a href=\"tel:+918144055666\">8144055666</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Chennai",
+    "name": "Deepak Agencies",
+    "address": "137/4, Angappa Naicken Street, Facing Errabalu Chetty Street, Parrys, Chennai 600001",
+    "phones": [
+      "Mob: <a href=\"tel:+919176146205\">9176146205</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Coimbatore",
+    "name": "Suriya Marketing",
+    "address": "206 K, Chellam Complex, Dr. Nanjappa Road, Coimbatore 641018",
+    "phones": [
+      "Tel: 0422-4378508 / 4378058",
+      "Mob: <a href=\"tel:+919843556059\">9843556059</a> / <a href=\"tel:+919843356059\">9843356059</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Coimbatore",
+    "name": "Grace Tech Solutions",
+    "address": "331, Kamarajar Road, Varadharajapuram, Uppilipalayam Post, Coimbatore 641015",
+    "phones": [
+      "Mob: <a href=\"tel:+919865179509\">9865179509</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Cochin",
+    "name": "P.O. Abraham &amp; Co.",
+    "address": "Sahitya Parishat Building, East of Head Post Office, Hospital Road, Ernakulam, Cochin 682011",
+    "phones": [
+      "Tel: 0484-2369797 / 2351253",
+      "Mob: <a href=\"tel:+919846055555\">9846055555</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Faridabad",
+    "name": "Abhishek Enterprises",
+    "address": "1E/17 BP N.I.T., Faridabad 121001, Haryana",
+    "phones": [
+      "Mob: <a href=\"tel:+917838499413\">7838499413</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Faridabad",
+    "name": "Amar Electrical",
+    "address": "2 A-6, NIT Faridabad 121001, Haryana",
+    "phones": [
+      "Tel: 0129-40289",
+      "Mob: <a href=\"tel:+919811388953\">9811388953</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Faridabad",
+    "name": "Sonia Electricals",
+    "address": "2A-6, N.I.T. Faridabad 121001",
+    "phones": [
+      "Mob: <a href=\"tel:+919811388953\">9811388953</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Faridabad",
+    "name": "Mundhra Brothers",
+    "address": "1D-14, B.P, 1 &amp; 2 Chowk, NIT Faridabad 121001",
+    "phones": [
+      "Mob: <a href=\"tel:+919999934375\">9999934375</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Gandhidham",
+    "name": "Kamdhenu Enterprises",
+    "address": "3-4 Golden Point, Plot No.31, Sector-8, Gandhidham (Kutch) 370201",
+    "phones": [
+      "Tel: 02836-229900",
+      "Mob: <a href=\"tel:+919925405001\">9925405001</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Gurgaon",
+    "name": "Electric &amp; Machinery Traders",
+    "address": "245/11, Old Railway Road, Opp. Canara Bank, Gurgaon 122001",
+    "phones": [
+      "Tel: 0124-4066295 / 4067295 / 2329295",
+      "Mob: <a href=\"tel:+919718909292\">9718909292</a> / <a href=\"tel:+919899696196\">9899696196</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Hisar",
+    "name": "Daksh Solutions",
+    "address": "#67, Saini School Market, Hisar 125001, Haryana",
+    "phones": [
+      "Mob: <a href=\"tel:+917015316583\">7015316583</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Hosur",
+    "name": "Annai Trading Corporation",
+    "address": "Plot No.3, SIDCO Industrial Estate, Srinagar, Hosur 635109",
+    "phones": [
+      "Mob: <a href=\"tel:+918667000389\">8667000389</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Indore",
+    "name": "Suny Enterprises",
+    "address": "17, Dhenu Market, Behind Jai Mata Medicose, Indore 452003",
+    "phones": [
+      "Mob: <a href=\"tel:+919826287873\">9826287873</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Indore",
+    "name": "Ashvin Product",
+    "address": "29, Dhenu Market, Off MG Road, Nr. Lloyd AC Depot, Indore 452003",
+    "phones": [
+      "Mob: <a href=\"tel:+919425057450\">9425057450</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Jamshedpur",
+    "name": "Incons India",
+    "address": "Bajwa Complex, Masjid Road, 94-Golmuri Market, Jamshedpur 831003, Jharkhand",
+    "phones": [
+      "Tel: 0657-2341483",
+      "Mob: <a href=\"tel:+919031727962\">9031727962</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Jaipur",
+    "name": "Eltronics",
+    "address": "86-87A, Dhuleshwar Garden, Jaipur 302001",
+    "phones": [
+      "Tel: 0141-4073214",
+      "Mob: <a href=\"tel:+919928910325\">9928910325</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Kolkata",
+    "name": "Teknic Control Gear Pvt Ltd",
+    "address": "KGN House, 2nd Floor, Room No. 16, 14 Ganesh Chandra Avenue, Kolkata 700013",
+    "phones": [
+      "Tel: 033-40054649 / 22367429",
+      "Mob: <a href=\"tel:+919330241996\">9330241996</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Kolhapur",
+    "name": "Dhanshree Enterprises",
+    "address": "C/B-3/4, Sterling Tower, 1031-K, E Ward, Gavat Mandai Road, Shahupuri, Kolhapur 416001",
+    "phones": [
+      "Tel: 0231-2663198 / 2663199 / 2669777",
+      "Mob: <a href=\"tel:+919689925434\">9689925434</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Ludhiana",
+    "name": "Komal Electro Sales",
+    "address": "S.C.O 3, Shiv Mandir Market, Opp Manju Cinema, G.T. Road, Ludhiana 141003",
+    "phones": [
+      "Mob: <a href=\"tel:+919872224551\">9872224551</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Ludhiana",
+    "name": "Monika Engineers",
+    "address": "Rukmani Tower, 77-A, Industrial Estate, Ludhiana 141003",
+    "phones": [
+      "Mob: <a href=\"tel:+919417000445\">9417000445</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Ludhiana",
+    "name": "Indosons Electrical Industries",
+    "address": "3102/3, Nirankari Colony, Sunder Nagar, Ludhiana 141007",
+    "phones": [
+      "Mob: <a href=\"tel:+919914319996\">9914319996</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Ludhiana",
+    "name": "Soni Electricals &amp; Electronics",
+    "address": "5, Guru Nanak Market, Near Upper India Steels, Focal Point, Ludhiana 141010",
+    "phones": [
+      "Mob: <a href=\"tel:+919872620928\">9872620928</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Ludhiana",
+    "name": "General Electric &amp; Machinery",
+    "address": "4, Oswal Market, Opp Fire Station, G.T. Road, Ludhiana 141003",
+    "phones": [
+      "Mob: <a href=\"tel:+919781022060\">9781022060</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Mumbai",
+    "name": "A. Harilal &amp; Co. Pvt. Ltd",
+    "address": "169 Lohar Chawl, K.M. Sharma Marg, Amrit Niwas, Ground Floor, Mumbai 400002",
+    "phones": [
+      "Tel: 022-22085553 / 22095882",
+      "Mob: <a href=\"tel:+919321085554\">9321085554</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Mumbai",
+    "name": "Teknic Control Gear Pvt. Ltd",
+    "address": "116, Hammersmith Industrial Estate, Off Sitladevi Temple Road, Mahim, Mumbai 400016",
+    "phones": [
+      "Tel: 022-43626500 / 43626504 / 24451648"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Mumbai",
+    "name": "Yogesh Switch Gear &amp; Cables Pvt. Ltd.",
+    "address": "240, Gala Complex, Dindayal Upadhyay Marg, Dumping Road, Mulund West, Mumbai 400080",
+    "phones": [
+      "Tel: 25655261 / 32107482",
+      "Mob: <a href=\"tel:+919322251679\">9322251679</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Mysuru",
+    "name": "Advaith Enterprises",
+    "address": "#Q205/1, 2nd Cross, Hebbal Industrial Area, Opp. DHL, Mysuru 570016",
+    "phones": [
+      "Mob: <a href=\"tel:+918050988683\">8050988683</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "New Delhi",
+    "name": "Shree Shyam Electricals",
+    "address": "2098/109, Chah Indara, Behind Jubilee Cinema, Bhagirath Place, Chandni Chowk, Delhi 110006",
+    "phones": [
+      "Tel: 011-23873310 / 23873311",
+      "Mob: <a href=\"tel:+919811031624\">9811031624</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "New Delhi",
+    "name": "Aarcee Mittal &amp; Bros",
+    "address": "1723, Bhagirath Palace, New Delhi 110006",
+    "phones": [
+      "Tel: 011-23873766 / 55301231",
+      "Mob: <a href=\"tel:+919871077020\">9871077020</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "New Delhi",
+    "name": "Ankit Electricals",
+    "address": "1809, 1st Floor, Bhagirath Palace, Chandni Chowk, New Delhi 110006",
+    "phones": [
+      "Tel: 011-23869752 / 23873098",
+      "Mob: <a href=\"tel:+919899765966\">9899765966</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "New Delhi",
+    "name": "Promark",
+    "address": "67, Sunshine Apartments, A-3, Paschim Vihar, New Delhi 110063",
+    "phones": [
+      "Tel: 011-25264262",
+      "Mob: <a href=\"tel:+919871667788\">9871667788</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "New Delhi",
+    "name": "P.V. Associates",
+    "address": "35, 1st Floor, DDA Shopping Complex, Mangala Market, Next to P.O. Kalkaji, New Delhi 110019",
+    "phones": [
+      "Tel: 011-26423160",
+      "Mob: <a href=\"tel:+919811025899\">9811025899</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "New Delhi",
+    "name": "Kartik Electricals",
+    "address": "1809, 3rd Floor, Bhagirath Place, Chandni Chowk, Delhi 110006",
+    "phones": [
+      "Mob: <a href=\"tel:+919871166589\">9871166589</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Nagpur",
+    "name": "Metro Electricals &amp; Industrial Agencies",
+    "address": "79, Chhabriya Chambers, Central Avenue Road, Nagpur 440018",
+    "phones": [
+      "Tel: 0712-2723222 / 2729009",
+      "Mob: <a href=\"tel:+919823400091\">9823400091</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Nagpur",
+    "name": "Gassco Corporation",
+    "address": "Plot No.74, Flat No.101, Dattatraya Apartment, Bhausaheb Surve Nagar, Nagpur 440022",
+    "phones": [
+      "Tel: 0712-2243325 / 2224754",
+      "Mob: <a href=\"tel:+919403590821\">9403590821</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Nashik",
+    "name": "NASA Enterprises",
+    "address": "66, C-10/1, Nice Flatted Estate, A-Road, MIDC, Satpur, Nashik 422007",
+    "phones": [
+      "Tel: 0253-2357729 / 2360894",
+      "Mob: <a href=\"tel:+919422271456\">9422271456</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Navi Mumbai",
+    "name": "Central Electric (N.B.)",
+    "address": "Shop No.1, 2 &amp; 5, Royal Tower, Plot No.52, Sector 8/A, Diva, Airoli, Navi Mumbai 400708",
+    "phones": [
+      "Tel: 022-27607600",
+      "Mob: <a href=\"tel:+917666789261\">7666789261</a> / <a href=\"tel:+917666689262\">7666689262</a> / <a href=\"tel:+919322344720\">9322344720</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Nellore",
+    "name": "Simhapuri Technologys",
+    "address": "No.25/2/813, First Floor, Savithri Nagar, 8th Cross Rd, Vedayapalem, Nellore 524004",
+    "phones": [
+      "Mob: <a href=\"tel:+919703707442\">9703707442</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Neemrana",
+    "name": "A.B. Enterprises",
+    "address": "S-19, RIICO Shopping Complex, Behind Subzi Mandi, Near Police Station, Neemrana 301705",
+    "phones": [
+      "Mob: <a href=\"tel:+918003333311\">8003333311</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Pune",
+    "name": "Spectra Trading Company",
+    "address": "Plot No. A-129/1, H Block, Near Morwadi Court, Shantaram Electric Compound, MIDC, Pimpri, Pune 411018",
+    "phones": [
+      "Tel: 020-27440211",
+      "Mob: <a href=\"tel:+919822498775\">9822498775</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Pune",
+    "name": "Karishma Electric &amp; Trading Co.",
+    "address": "144, Narayan Peth, Pune 411030",
+    "phones": [
+      "Tel: 020-24450952 / 24494979 / 66029945",
+      "Mob: <a href=\"tel:+917875496111\">7875496111</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Pune",
+    "name": "Shiv Engineers",
+    "address": "Shop No.2, C-38, Near IBMR College, MIDC, Chinchwad, Pune 411019",
+    "phones": [
+      "Tel: 020-27440211",
+      "Mob: <a href=\"tel:+919372355611\">9372355611</a> / <a href=\"tel:+919372555611\">9372555611</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Ranchi",
+    "name": "Mr. Dinesh Rai",
+    "address": "2nd Floor, Sukhram Enclave, Room D-2, Near Bank Colony, Morhabadi, Ranchi 834008",
+    "phones": [
+      "Mob: <a href=\"tel:+919608692392\">9608692392</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Rajkot",
+    "name": "Noble Electric Co. Pvt. Ltd.",
+    "address": "Opp. RMC Exit Gate, Ashapura Road, Rajkot 360001",
+    "phones": [
+      "Tel: 0281-2223088 / 2238288",
+      "Mob: <a href=\"tel:+919925549730\">9925549730</a> / <a href=\"tel:+919825315551\">9825315551</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Rajkot",
+    "name": "Perfect Switchgear",
+    "address": "2-Bhakti Nagar, Station Road, Opp. Sonal Complex, Rajkot 360002, Gujarat",
+    "phones": [
+      "Mob: <a href=\"tel:+919376638238\">9376638238</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Rewari",
+    "name": "Shivam Enterprises",
+    "address": "Chandpur Ki Dhani, Bawal Road, Rewari 123401",
+    "phones": [
+      "Mob: <a href=\"tel:+919812510352\">9812510352</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Rudrapur",
+    "name": "Perfect Control System",
+    "address": "Plot No.2, Shakti Vihar Colony, Atariya Road, Rudrapur 263153",
+    "phones": [
+      "Mob: <a href=\"tel:+918755200777\">8755200777</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Sangli",
+    "name": "Dipak Enterprises",
+    "address": "P.B. No.123, 1048 Vrindavan-A, Near Sangli College Corner, High School Road, Opp. RBL Bank, Sangli 416416",
+    "phones": [
+      "Tel: 0233-2375653 / 2377303",
+      "Mob: <a href=\"tel:+919890015900\">9890015900</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Surendranagar",
+    "name": "Patel Electronic Corporation",
+    "address": "K.V. Road, Opp. Indian Bank, Jamnagar 361001",
+    "phones": [
+      "Tel: 0288-224773 / 2673747",
+      "Mob: <a href=\"tel:+919328100630\">9328100630</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Surendranagar",
+    "name": "Patel Trading Co.",
+    "address": "21, Panchvati Complex, Main Road, Surendranagar 363001",
+    "phones": [
+      "Mob: <a href=\"tel:+919879321410\">9879321410</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Secunderabad",
+    "name": "Triveni Enterprises",
+    "address": "H.O. 2-3-15, Ground Floor, Gandhi Market, M.G. Road, Secunderabad 500003",
+    "phones": [
+      "Tel: 040-66382622 / 27841627",
+      "Mob: <a href=\"tel:+919989155190\">9989155190</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Secunderabad",
+    "name": "New Star Engineering Company",
+    "address": "141/17, 1st Floor, Durga Bhavan, Opp Kotak Mahindra Bank, R.P. Road, Secunderabad 500003",
+    "phones": [
+      "Tel: 040-66385346 / 27537466",
+      "Mob: <a href=\"tel:+918885504647\">8885504647</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Vadodara",
+    "name": "Seemaco AG",
+    "address": "Anjali Chambers, R.C. Dutt Road, Alkapuri, Vadodara 390007",
+    "phones": [
+      "Tel: 0265-2359960 / 2344886 / 2355305",
+      "Mob: <a href=\"tel:+919979081144\">9979081144</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Vasai East",
+    "name": "Teknic Control Gears Pvt. Ltd.",
+    "address": "Gala No.8, Amrut Industrial Estate No.2, K.T. Industrial Park II, Bilal Pada, Valiv Road, Vasai East 401208",
+    "phones": [
+      "Mob: <a href=\"tel:+919320451648\">9320451648</a>"
+    ]
+  },
+  {
+    "className": "dealer-item",
+    "region": "Vijayawada",
+    "name": "Sree Anjaneya Engineering Enterprises",
+    "address": "Shop No.3, St Peter Complex, Tarapeta, Vijayawada 522001",
+    "phones": [
+      "Mob: <a href=\"tel:+919640561234\">9640561234</a>"
+    ]
+  }
+]
